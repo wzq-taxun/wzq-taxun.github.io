@@ -1,2 +1,3 @@
-# wzq-taxun.github.io
-个人博客....
+# weizhiqiang's website
+
+https://wzq-taxun.github.io/my-weblog/index.html
