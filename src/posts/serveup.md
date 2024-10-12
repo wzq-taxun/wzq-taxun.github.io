@@ -1,5 +1,5 @@
 ---
-container: serve-up
+container: Post
 title: 前端项目 部署服务器命令
 date: 2023/6/2
 ---

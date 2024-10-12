@@ -1,5 +1,5 @@
 ---
-container: question
+container: Post
 title: 蚂蚁金服面试题
 date: 2023/10/12
 ---

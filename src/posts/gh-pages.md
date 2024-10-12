@@ -1,5 +1,5 @@
 ---
-container: Gh-pages
+container: Post
 title: githup静态部署
 date: 2023/6/2
 ---
