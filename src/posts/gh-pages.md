@@ -29,7 +29,7 @@ npm run build   生成 dist 文件夹
 ```js
 git add dist
 git commit -m "xxxx"
-git subtree push --prefix dist origin gh-pages (最关键)
+git subtree push --prefix dist origin gh-pages (最关键) / git push origin :gh-pages && git subtree push --prefix dist origin gh-pages 
 ```
 
 第7步：在项目仓库里修改访问位置
